@@ -1,0 +1,3 @@
+[submodule "configs/alacritty"]
+	path = configs/alacritty
+	url = /Users/d.bedenashvili/.config/alacritty
