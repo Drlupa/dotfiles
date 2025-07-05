@@ -1,3 +1,0 @@
-[submodule "configs/alacritty"]
-	path = configs/alacritty
-	url = https://github.com/Drlupa/dotfiles-alacritty.git
